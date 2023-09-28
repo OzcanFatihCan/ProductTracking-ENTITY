@@ -6,13 +6,13 @@
     <edmx:Diagrams>
       <Diagram DiagramId="f98fc426df4d4974824c1ce3fbb5c355" Name="Diagram1">
         <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLKATEGORI" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
-        <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLMUSTERI" Width="1.5" PointX="3" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLMUSTERI" Width="1.5" PointX="5.125" PointY="4.125" IsExpanded="true" />
         <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLSATIS" Width="1.5" PointX="5.25" PointY="1.125" IsExpanded="true" />
         <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLURUN" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
         <AssociationConnector Association="DbEntityUrunTakipModel.FK_TBLURUN_TBLKATEGORI" ManuallyRouted="false" />
         <AssociationConnector Association="DbEntityUrunTakipModel.FK_TBLSATIS_TBLMUSTERI" ManuallyRouted="false" />
         <AssociationConnector Association="DbEntityUrunTakipModel.FK_TBLSATIS_TBLURUN" ManuallyRouted="false" />
-        <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLADMIN" Width="1.5" PointX="6.75" PointY="4.125" />
+        <EntityTypeShape EntityType="DbEntityUrunTakipModel.TBLADMIN" Width="1.5" PointX="1.125" PointY="4.25" />
       </Diagram>
     </edmx:Diagrams>
   </edmx:Designer>
